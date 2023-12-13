@@ -33,7 +33,7 @@ const Contact = () => {
 
   return (
     <div>
-      <Row style={{ width: "90%", margin: "auto", textAlign: "left" }}>
+      <Row style={{ width: "90%", margin: "auto", textAlign: "left", padding: "0% 0% 1% 0%" }}>
         <h1>We'd love to hear from you</h1>
         <div className="just">
           NB: For enquiries that need the attention of a specific merchant or
